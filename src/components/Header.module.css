@@ -1,0 +1,20 @@
+.header{
+  background: var(--gray-800);
+  display: flex;
+  justify-content: center;
+  padding: 1.25rem 0;
+  align-items: center;
+}
+.header h1{
+  color: var(--platform-aliases-ttulos, #E1E1E6);
+  font-family: Roboto;
+  font-size: 25.585px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 160%; /* 40.937px */
+  margin-left: 1.25rem;
+}
+
+.header img{
+  height: 2rem;
+}
